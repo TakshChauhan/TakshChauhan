@@ -74,19 +74,7 @@ Full Stack Engineer • AI/ML Enthusiast • Software Developer
 * Scikit-learn
 * OpenCV
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TakshChauhan&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakshChauhan&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
