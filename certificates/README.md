@@ -1,3 +1,4 @@
+
 # Certificates
 
 This folder contains my course completion certificates.
@@ -14,7 +15,7 @@ This folder contains my course completion certificates.
 
 [Business Analysis and Process Manangement-Coursera.pdf](https://github.com/user-attachments/files/30032527/Business.Analysis.and.Process.Manangement-Coursera.pdf)
 
-[Deloitte Technology Job Simulation.pdf](Certificates/Deloitte%20certificate.pdf)
+[Deloitte certificate.pdf](https://github.com/user-attachments/files/30281220/Deloitte.certificate.pdf)
 
 
 
